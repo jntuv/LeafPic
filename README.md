@@ -1,4 +1,5 @@
 ## This project is no longer maintained
+//
 
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/leafpic/localized.svg)](https://crowdin.com/project/leafpic)
 [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://www.paypal.me/HoraApps)
